@@ -11,6 +11,14 @@ Every entry must reference: Issue #, ADR # (if applicable), RFC # (if applicable
 
 ---
 
+## [1.26.7](https://github.com/valdomirosouza/Repository-Template/compare/v1.26.6...v1.26.7) (2026-06-01)
+
+
+### Bug Fixes
+
+* **ci:** lowercase image name in cosign attest step ([#40](https://github.com/valdomirosouza/Repository-Template/issues/40)) ([675feae](https://github.com/valdomirosouza/Repository-Template/commit/675feaea18080ad0c9dc5bca70a9ced21785d8bf))
+* **ci:** move cosign attest from CI to CD pipeline ([#42](https://github.com/valdomirosouza/Repository-Template/issues/42)) ([6386d0d](https://github.com/valdomirosouza/Repository-Template/commit/6386d0d4c8af68320e6089bacdc6862f9981b3e3))
+
 ## [Unreleased]
 
 ## [1.26.9] — 2026-06-01
